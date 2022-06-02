@@ -1,9 +1,9 @@
 {
   "name": "hotel-booking",
-  "homepage": "https://blessziamah.github.io",
   "version": "0.1.0",
   "private": true,
 
+  "homepage": "https://blessziamah.github.io",
 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
