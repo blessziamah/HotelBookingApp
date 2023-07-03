@@ -124,7 +124,7 @@ function About() {
             </div>
            <div className="col-md-4 col-12 mx-auto my-2">
                 <div className="card border-0 shadow-lg p-4">
-                    <img src="https://source.unsplash.com/9UVmlIb0wJU/500x350" className="card-img-top" alt="director" />
+                    <img src="https://images.yen.com.gh/images/b19eeb157b00798e.jpg?imwidth=720" className="card-img-top" alt="director" />
                     <div className="card-body">
                         <h5 className="card-title mb-0">Team Member</h5>
                         <div className="card-text text-black-50">Manager <p className="float-right">8 years</p>
