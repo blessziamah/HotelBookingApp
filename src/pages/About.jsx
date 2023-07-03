@@ -124,7 +124,7 @@ function About() {
             </div>
             <div className="col-md-4 col-12 mx-auto my-2">
                 <div className="card border-0 shadow-lg p-4">
-                    <img src="/*-" className="card-img-top" alt="director" />
+                    <img src="https://soundcloud.com/jordankg/johnny-sins-prodjkayg" className="card-img-top" alt="director" />
                     <div className="card-body">
                         <h5 className="card-title mb-0">Team Member</h5>
                         <div className="card-text text-black-50">Manager <p className="float-right">5 years</p>
